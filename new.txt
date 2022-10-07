@@ -1,1 +1,1 @@
-Modify an opened R via reviw from abhi-devops account itself.
+Modify an opened PR via reviw from abhi-devops account itself.
